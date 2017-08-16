@@ -1,18 +1,20 @@
 {
-  "name": "mdcss-theme-github",
+  "name": "mdcss-theme-tsm",
   "version": "2.4.2",
-  "description": "GitHub flavored theme for mdcss",
+  "description": "TSM flavored theme for mdcss",
   "keywords": [
     "mdcss",
     "mdcss-theme",
-    "github",
+    "Subject Matter",
+		"Team Subject Matter",
+		"TSM",
     "theme"
   ],
-  "author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
+  "author": "Zakk Fleischmann <fleischmann@teamsubjectmatter> (fleischmann@teamsubjectmatter)",
   "license": "CC0-1.0",
-  "repository": "jonathantneal/mdcss-github-theme",
-  "bugs": "https://github.com/jonathantneal/mdcss-github-theme/issues",
-  "homepage": "https://github.com/jonathantneal/mdcss-github-theme#readme",
+  "repository": "",
+  "bugs": "",
+  "homepage": "",
   "dependencies": {
     "ejs": "^2.4.1",
     "object-assign": "^4.0.1"
