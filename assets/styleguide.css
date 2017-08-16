@@ -1,0 +1,44 @@
+.container {
+  max-width: 100%;
+  width: 100%;
+}
+
+.docs-example {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.docs-iframe {
+}
+
+.docs-example:hover .docs-iframe {
+}
+
+.docs-resize {
+  width: 100%;
+}
+
+.docs-iframe {
+  border: 0;
+  height: auto;
+  width: 100%;
+}
+
+.swatch {
+  padding: .25em;
+  margin: 0 .3em .3em 0;
+  word-break: break-all;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+.color-property {
+  font-size: 80%;
+}
+
+.footer {
+	text-align: center;
+}
