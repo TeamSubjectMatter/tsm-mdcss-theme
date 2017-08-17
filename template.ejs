@@ -7,14 +7,14 @@
     <% opts.js.forEach(function (src) {
       %><script src="<%= src %>"></script><%
     }); %>
-		<link rel="stylesheet" href="styleguide.css">
 		<link rel="stylesheet" href="primer.css">
+		<link rel="stylesheet" href="styleguide.css">
   </head>
   <body>
-    <header class="masthead" style="background-color: <%= opts.color %>;">
+    <header class="masthead">
       <div class="container">
         <a href="/" class="masthead-logo">
-          <img src="<%= opts.logo %>" alt="<%= opts.title %>" height="32"> <%= opts.title %>
+          <img src="logo.svg" alt="<%= opts.title %>" height="32">
         </a>
         <nav class="masthead-nav">
             <% opts.nav.forEach(function(link) { %>
