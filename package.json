@@ -1,20 +1,20 @@
 {
-  "name": "mdcss-theme-tsm",
-  "version": "2.4.2",
+  "name": "@subjectmatter/mdcss-theme-tsm",
+  "version": "1.0.0",
   "description": "TSM flavored theme for mdcss",
   "keywords": [
     "mdcss",
     "mdcss-theme",
     "Subject Matter",
-		"Team Subject Matter",
-		"TSM",
+    "Team Subject Matter",
+    "TSM",
     "theme"
   ],
   "author": "Zakk Fleischmann <fleischmann@teamsubjectmatter> (fleischmann@teamsubjectmatter)",
   "license": "CC0-1.0",
-  "repository": "",
+  "repository": "https://github.com/TeamSubjectMatter/tsm-mdcss-theme",
   "bugs": "",
-  "homepage": "",
+  "homepage": "http://www.teamsubjectmatter.com",
   "dependencies": {
     "ejs": "^2.4.1",
     "object-assign": "^4.0.1"
